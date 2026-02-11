@@ -1,7 +1,7 @@
 
 ================================================
 
-I think its so funny to write recipies like yaml/toml/json in plaintext and upload to github
+I think its so funny to write recipies like an old internet gameguide in plaintext and upload to github
 
 ================================================
 
