@@ -1,0 +1,213 @@
+
+================================================
+
+I think its so funny to write recipies like yaml/toml/json in plaintext and upload to github
+
+================================================
+
+================================================
+Oven Poached Salmon with buerre blanc
+with side of lemon-herb risotto, Asparagus, and Sauteed fennel.
+================================================
+The real classical way of doing poached salmon is on top of the stove, but doing it in the oven is better bc ovens are more consistant and cause less disruption in the sauce.
+
+The meal is intended for a date - should feel romantic and have lots of parts to mess up together <3
+
+almost all the quanities are ai generated, use your eyes, nose, and mouth when cooking
+
+================================================
+Shopping list:
+================================================
+Aluminum foil (people are often out of this)
+
+2 large salmon fillets (ai tells me 180grams), SHOULD NOT BE SLIMEY OR SMELL - hunt for this
+
+white wine - Sancerre (Sauvignon Blanc from loire) - no blends, 1-3 years old
+	   - Muscadet also works as its also from loire
+(should have half a bottle left after cooking assuming not much sipping happens)
+
+a second bottle might be needed if you are sipper
+second bottle could also be of Coteaux du Layon as a desert wine afterwards paired with some
+light desert item (also from loire *grows together goes togeher*)
+
+(def chill the second bottle if you do get one, as the first bottle will be out for a while)
+
+Court Boullion{
+	500ml water
+	2 cups wine
+	1 rough chop carrot
+	1 small yellow onion
+	1 Celery
+	2 bay leaf (ai said 1)
+	thyme sprig (ai says 1)
+	like a tsp peppercorns
+	salt 1tsp
+	some fennel fonds just a handful
+	parsley stems (if have)
+	some leek (if have)
+	fish bones (if have)
+}
+
+3 shallot
+thyme
+bayleafs
+white pepper
+big thing of salt for brine (kosher or seasalt- tablesalt tastes bad)
+white wine vinegar
+Butter, unsalted
+Arborio rice
+Parmesian cheese (get a block and shred it)
+1 lemon
+parsley
+Asparagus
+1 or two fennel bulbs (with fonds if possible)
+
+================================================
+Court Boullion
+================================================
+Prep:
+	2 cups water
+	2 cups wine
+	1 rough chop carrot
+	1 small yellow onion
+	1 Celery
+	2 bay leaf (ai said 1)
+	thyme sprig (ai says 1)
+	like a tsp peppercorns
+	salt 1tsp
+	some fennel fonds just a handful
+	parsley stems (if have)
+	some leek (if have)
+	fish bones (if have)
+
+combine all in stock pot and simmer for 20 mins
+
+<THIS IS WHERE I WOULD POUR THE FIRST GLASSES OF DRINKING WINE>
+<Also where I would start cutting and prepping veggies and such>
+
+skim the scum off the top regularly
+simmer, not boil
+strain and set aside.
+
+====== Start Salmon Brine ======
+preheat oven to 135F
+
+Start to brine the salmon by combining 
+1 tbsp of salt per cup of cold water
+kosher salt or sea salt (NOT TABLE SALT)
+probably like 4 cups water
+add 1 whole sprig of thyme (maybe fennel fonds instead)
+
+
+ONLY BRINE FOR 10 MINS (more than 15 is DEADLY)
+
+
+================================================
+Risotto (I've never done a risotto before!!!)
+================================================
+mince a shallot
+in a saucepan (not everyone knows to use one!)
+heat up a tbsp of butter till slightly foaming (less heat is better)
+add shallot and let sweeten and become transulcent (stir gently)
+add 150 g of arborio rice and toast for like a minute
+deglaze with spash of wine (ai says 60ml 🤓)
+stir gently letting the rice absorb the wine
+gradually add  3 cups of boullion, half a cup at a time
+stirring constantly!!!! (partner activity) (wooden spoon)
+rice should gently simmer not boil, heat shouldnt be crazy
+should take like 15 minutes to actualy add all the boullion
+
+total cooking time should be like 18 mins
+its supposed to be creamy not soupy, and should kinda hold its shape a bit
+al dente is correct also
+you might need to microwave the boullion to keep it warm as adding cold liquid is bad
+
+to finish: 
+	remove from heat
+	add 2-3tbsp of fresh finely grated parmesan
+	+ zest of 1/2 lemon
+	and chopped parsley 
+	stir together (aka fold)
+	season with salt and white pepper
+
+wants to finish alongside fish as both need to be served fast!
+
+
+
+
+================================================
+The Veggies (asparagus + fennel)
+================================================
+blanch asparagus (boil in salty watter for a min or two until tender)
+drain and pat dry
+thin slice fennel in wedges (doesnt have to be perfect)
+
+olive oil in pan (canola also works but the flavor of the olive is kinda wanted here)
+(tbh butter might be better than canola but id be afraid of the fat cutting the acid)
+
+saute fennel for <10 mins should be a little golden
+season with salt and white pepper
+add asparagus
+add a splash of wine to deglaze (like a quarter of a cup)
+
+reduce wine for a minute or two, mostly to coat and cook off alcohol
+season with salt and white pepper
+
+put on warm plate and cover with foil (dont trap steam)
+can also be popped into the oven for a minute before serving (oven at 135 from salmon)
+
+================================================
+Poaching the Salmon
+================================================
+When done with brine dry with paper towels (like dry dry)
+Put both fillets in highwall ovenproof dish (I use enamaled cast iron w/ high walls)
+add .5 cup boullion, .5 cup wine
+slice up a shallot and add
+add 2 sprigs thyme
+and bayleaf
+
+Cover and cook in oven for 10-12 mins 
+should just be opaque like do not overcook
+
+Microwave a plate for like 1 min
+Remove salmon and put on the warm plate and cover loosly w/ foil (dont trap steam)
+rest for 2-3 mins
+
+
+================================================
+Beurre blanc
+================================================
+mince a shallot
+half cup wine, splash of vinegar (ai says 2tbsp lol)
+add in a pan and reduce till like real thick (like 3 tbsp left)
+while it reduces, cube up a stick of butter
+remove from heat and whisk in the whole stick of butter
+
+
+===========================================
+plating
+===========================================
+the risotto should be just finishing (hopefully)
+so the parmesan, zest, and herbs are in theory just getting added
+
+warm the plates in the microwave (warm not hot dont cook the fish)
+
+Add a large spoon of risotto off center on the warm plate
+lean the salmon against the risotto (the goal here is height)
+show off the skin is down to show off the braised flesh
+place fennel and asparagus on other side of salmon to give the dish stance
+
+spoon sauce on salmon, let run off onto plate 
+its often really easy to overdo it with sauce, people can always add more later though
+
+garnish the sauce with a fennel fond or two
+wipe the plates clean of any dripping or splatters
+
+
+
+serve with glasses of wine (hopefully theres some left!!!!)
+follow up with the other wine if you got it
+
+
+
+HOPE YOU ENJOY ~<3
