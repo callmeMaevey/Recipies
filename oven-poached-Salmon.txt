@@ -22,17 +22,21 @@ Aluminum foil (people are often out of this)
 
 2 large salmon fillets (ai tells me 180grams), SHOULD NOT BE SLIMEY OR SMELL - hunt for this
 
-white wine - Sauvignon Blanc from loire no blends, 1-3 years old
-(ai tells me it has really good acitity and sweetness thats good for both the sauce and the veggies and for drink pairing)
-AI also says Muscadet also works as its also from loire
-(should have half a bottle left after cooking assuming not much sipping happens)
+[im still learning wine and GPT is my teacher]{
 
-a second bottle might be needed if you are sipper
-AI also reccomened Coteaux du Layon as a desert wine afterwards paired with some
-light desert item (also from loire *grows together goes togeher*) or on its own
-[im still learning wine and GPT is my teacher]
+dry crisp white wine - ai reccomends a sauvignon blanc from loire no blends, 1-3 years old
+	(sancerre i guess is what it is called) and tells me to spend like $30
+	supposedly it has really good acitity and sweetness thats good for both the sauce
+	and the veggies and for drink pairing, ai also says muscadet also works as its also from loire
+
+(you should have half a bottle left after cooking assuming not much sipping happens)
+
+	a second bottle might be needed if you are sipper
+	ai also reccomened coteaux du layon as a desert wine afterwards paired with some
+	light desert item (also from loire *grows together goes togeher*) or on its own
 
 (def chill the second bottle if you do get one, as the first bottle will be out for a while)
+}
 
 Court Boullion{
 	500ml water
