@@ -7,66 +7,60 @@ I think its so funny to write recipies like an old internet gameguide in plainte
 
 ================================================
 Oven Poached Salmon with buerre blanc
-with side of lemon-herb risotto, Asparagus, and Sauteed fennel.
+with risotto and milanaise asparagus
 ================================================
 The real classical way of doing poached salmon is on top of the stove, but doing it in the oven is better bc ovens are more consistant and cause less disruption in the sauce.
 
 The meal is intended for a date - should feel romantic and have lots of parts to mess up together <3
 
-almost all the quanities are ai generated, use your eyes, nose, and mouth when cooking
-
+the draft was ai assisted, use your eyes, nose, and mouth when cooking
+second pass was done after reading relivant portions of Escoffier, Childs, and a book about wine an old guy reccomended me
 ================================================
 Shopping list:
 ================================================
+
 Aluminum foil (people are often out of this)
 
 2 large salmon fillets (ai tells me 180grams), SHOULD NOT BE SLIMEY OR SMELL - hunt for this
 
 [im learning wine and GPT is my teacher]
-dry crisp white wine { ai reccomends a sauvignon blanc from loire no blends, 1-3 years old
-	(sancerre i guess is what it is called) and tells me to spend like $30
-	supposedly it has really good acitity and sweetness thats good for both the sauce
-	and the veggies and for drink pairing, ai also says muscadet also works as its also from loire
+dry crisp white wine 
+	sauvignon blanc from loire no blends, 1-3 years old
+	its called Sancerre and its centuries old, but has declined in poplarity due to reds from the region selling better
+	its dry and fruity wich should be cute with the fish, veggies, and risotto
+	muscadet is also fron loire valley but is not as good 
 
-(you should have half a bottle left after cooking assuming not much sipping happens)
-
-	a second bottle might be needed if you are sipper
-	ai also reccomened coteaux du layon as a desert wine afterwards paired with some
-	light desert item (also from loire *grows together goes togeher*) or on its own
-
-(def chill the second bottle if you do get one, as the first bottle will be out for a while)
+	(you should have half a bottle left after cooking assuming not much sipping happens)
+		a second bottle might be needed if you are sipper
+	I might look to buy a desert wine also from loire but I cant find anything about that in my dusty books
+	(def chill the second bottle if you do get one, as the first bottle will be out for a while)
 }
 
-Court Boullion{
-	500ml water
+Court Boullion (really its fumet de poisson vin blanc){
+	2 cups water
 	2 cups wine
 	like half cup vinegar
-	1 rough chop carrot
-	1 small yellow onion
+	1 yellow onion
 	1 Celery
-	2 bay leaf (ai said 1)
-	thyme sprig (ai says 1)
-	like a tsp peppercorns
-	salt 1tsp
-	some fennel fonds just a handful
-	parsley stems (if have)
-	some leek (if have)
-	fish bones (if have)
+	parsley stems (childs says 6-8 per 2 cups, escoffier says '2oz' and "herb bunch")
+	half oz peppercorns
+	some salt
+	fish bones, probably like 1 pound as its just for poaching and not for a sauce
 }
 
-3 shallot
-thyme
+3 shallot {
+	one for the risotto, escoffier calls for an onion, but shallot will be used instead
+	one for the salmon paching liquid
+	last one for the butter sauce
+}
 bayleafs
 white pepper
-big thing of salt for brine (kosher or sea, imo tablesalt tastes bad)
-white wine vinegar but like lowkey optional 
+big thing of salt for brine ( I like seasalt but its $$$ )
 Butter, unsalted
-Arborio rice
-Parmesian cheese (get a block and shred it)
-1 lemon
+Italian (Arborio) rice
+Parmesian cheese (get a nice block and grate it)
 parsley
-Asparagus
-1 or two fennel bulbs (with fonds if possible)
+Asparagus - refer to childs on purchasing
 
 ================================================
 Court Boullion
@@ -79,7 +73,6 @@ Prep:
 	1 small yellow onion
 	1 Celery
 	2 bay leaf (ai said 1)
-	thyme sprig (ai says 1)
 	like a tsp peppercorns
 	salt 1tsp
 	some fennel fonds just a handful
@@ -87,23 +80,22 @@ Prep:
 	some leek (if have)
 	fish bones (if have)
 
-combine all in stock pot and simmer for 20 mins
+combine all in stock pot and simmer for 20-30 mins (because this is poaching liquid, less time is better)
 
 <THIS IS WHERE I WOULD POUR THE FIRST GLASSES OF DRINKING WINE>
 <Also where I would start cutting and prepping veggies and such>
 
 skim the scum off the top regularly
 simmer, not boil
-strain and set aside.
+strain with a sieve and set aside.
 
 ====== Start Salmon Brine ======
-preheat oven to 275
+preheat oven to 275 (childs says 350, but its more about the liquid temperature and many ovens dont do well below 250)
 
 Start to brine the salmon by combining 
 1 tbsp of salt per cup of cold water
 kosher salt or sea salt (NOT TABLE SALT)
 probably like 4 cups water
-add 1 whole sprig of thyme (maybe fennel fonds instead)
 
 
 ONLY BRINE FOR 10 MINS (more than 15 is DEADLY)
@@ -112,83 +104,91 @@ ONLY BRINE FOR 10 MINS (more than 15 is DEADLY)
 ================================================
 Risotto (I've never done a risotto before!!!)
 ================================================
+this is a french risotto, italians stir it constanty but the french just let it simmer while adding more liquid
+
 mince a shallot
+keep the stock on simmer or microwave to keep hot
 in a saucepan 
 heat up a tbsp of butter till slightly foaming (less heat is better)
 add shallot and let sweeten and become transulcent (stir gently)
-add 150 g of arborio rice and toast for like a minute
+add 1 cup of rice and toast for 2-3 mins
+the goal is to produce a milky color and not brown it
+
 deglaze with spash of wine (ai says 60ml 🤓)
 stir gently letting the rice absorb the wine
+
 gradually add  3 cups of boullion, half a cup at a time
-stirring constantly!!!! (partner activity) (wooden spoon)
-rice should gently simmer not boil, heat shouldnt be crazy
+stir while adding and watch, as soon as liquid is abosrbed add more
+
+gently simmer not boil, heat shouldnt be crazy
 should take like 15 minutes to actualy add all the boullion
 
 total cooking time should be like 18 mins
 its supposed to be creamy not soupy, and should kinda hold its shape a bit
 al dente is correct also
-you might need to microwave the boullion to keep it warm as adding cold liquid is bad
 
 to finish: 
 	remove from heat
 	add 2-3tbsp of fresh finely grated parmesan
-	+ zest of 1/2 lemon
 	and chopped parsley 
-	stir together (aka fold)
+	fold together
 	season with salt and white pepper
 
-wants to finish alongside fish as it wants to be served fast!
+wants to finish last as it wants to be served fast!
 
 
 ================================================
-The Veggies (asparagus + fennel)
+asparagus a la milanaise
 ================================================
+if the asparagus is not fresh or woody, peel with pairing knife
 blanch asparagus (boil in salty watter for a min or two until tender)
-drain and pat dry
-thin slice fennel in wedges (doesnt have to be perfect)
-
-olive oil in pan (canola also works but the flavor of the olive is kinda wanted here)
-(tbh butter might be better than canola but id be afraid of the fat cutting the acid)
-
-saute fennel for <10 mins should be a little golden
-season with salt and white pepper
-add asparagus
-add a splash of wine to deglaze (like a quarter of a cup)
-
-reduce wine for a minute or two, mostly to coat and cook off alcohol
-season with salt and white pepper
-
+drain and pat dry,
+while warm top with parmisan
 put on warm plate and cover with foil (dont trap steam)
+
 can also be popped into the oven for a minute before serving (oven at 275 from salmon)
+just before serving:
+	brown butter until its nut-colored, pour over aspargus 
 
 ================================================
 Poaching the Salmon
 ================================================
+oven is at 275, the goal is to keep the liquid at a low simmer and to not have a high difference between it and the air
+"A boiling that does not boil" -Escoffier
+Im afaid of this though
+
 When done with brine dry with paper towels (like dry dry)
 Put both fillets in highwall ovenproof dish (I use enamaled cast iron w/ high walls)
 add .5 cup boullion, .5 cup wine
-slice up a shallot and add
-add 2 sprigs thyme
+slice up a shallot 
 and bayleaf
 pre simmer then add salmon
 
-Cover and cook in oven for 10-12 mins 
-should just be opaque like do not overcook
+Cover tightly with foil and cook in oven for 15-20 mins 
+actually just check temp frequently, targeting 125-130F (lower than the FDA!)
+should just be opaque like do not overcook, 
 
-Microwave a plate for like 1 min
+Microwave a plate for like 45sec
 Remove salmon and put on the warm plate and cover loosly w/ foil (dont trap steam)
 rest for 2-3 mins
 
+================================================
+Beurre blanc (an acutaly pretty new compound butter historically speaking)
+================================================
+Sauce originates from along the Loire River!
 
-================================================
-Beurre blanc
-================================================
 mince a shallot
-half cup wine, splash of vinegar (ai says 2tbsp lol)
-add in a pan and reduce till like real thick (like 3 tbsp left)
-while it reduces, cube up a stick of butter
-remove from heat and whisk in the whole stick of butter
+splash of wine
+splash of the poaching liquid
+(childs only uses 5tb of liquid total, 7 if you include 2 tb of butter before whipping in the rest)
+add in a pan and reduce till like real thick (like 2 tbsp left)
 
+while it reduces, cube up a stick of butter
+remove from heat and whisk in the whole stick of butter, 1 piece at a time
+occasionaly return to very low heat to keep beating
+
+salt and white pepper
+technically wants some lemon but im skipping
 
 ===========================================
 plating
@@ -200,20 +200,17 @@ warm the plates in the microwave (warm not hot dont cook the fish)
 
 Add a large spoon of risotto off center on the warm plate
 lean the salmon against the risotto (the goal here is height)
-skin to show off the braised flesh
-place fennel and asparagus on other side of salmon to give the dish stance
+asparagus on the other side of risotto I think, tbh not sure where it goes
 
 spoon sauce on salmon, let run off onto plate 
 its often really easy to overdo it with sauce, people can always add more later !!!
+(remember its like condensed butter)
 
-garnish the sauce with a fennel fond or two (or parsley)
-wipe the plates clean of any dripping or splatters
-
-
+garnish the sauce with a parsley leag
+wipe the plates clean of anjy dripping or splatters
 
 serve with glasses of wine (hopefully theres some left!!!!)
 follow up with the other wine if you got it
-
 
 
 HOPE YOU ENJOY ~<3
